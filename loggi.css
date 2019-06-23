@@ -1,0 +1,8 @@
+h1 {
+    border: 2px solid red;
+}
+
+a {
+    display: inline-block;
+    border: 1px solid blue;
+}
